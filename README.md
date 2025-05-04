@@ -99,21 +99,28 @@ bash
 npm install
 ionic serve
 
-🔗 Referencias oficiales utilizadas
+---
+
+## 🔗 Referencias oficiales utilizadas
 📘 Your First App (Ionic)
 https://ionicframework.com/docs/angular/your-first-app
+
 
 📷 Taking Photos
 https://ionicframework.com/docs/angular/your-first-app/taking-photos
 
+
 💾 Saving Photos
 https://ionicframework.com/docs/angular/your-first-app/saving-photoss
+
 
 🔁 Loading Photos
 https://ionicframework.com/docs/angular/your-first-app/loading-photo
 
+
 📱 Adding Mobile Support
 https://ionicframework.com/docs/angular/your-first-app/adding-mobile
+
 
 📦 Autor
 Desarrollado por Isaac Quinapallo
